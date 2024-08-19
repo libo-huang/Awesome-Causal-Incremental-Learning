@@ -23,8 +23,11 @@
 ## :closed_book: Paper
 ### 2024
 
-### 2023
 
+
+
+### 2023
+- (**CVPR 2022**) Distilling Causal Effect of Data in Class-Incremental Learning [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Hu_Distilling_Causal_Effect_of_Data_in_Class-Incremental_Learning_CVPR_2021_paper.html?ref=https://githubhelp.com)] [[code](https://github.com/JoyHuYY1412/DDE_CIL)]
 
 ### 2022
 
