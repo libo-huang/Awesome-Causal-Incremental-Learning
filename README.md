@@ -58,7 +58,7 @@
 
 
 <div align="right">
-  <a href="#awesome-causal-incremental--continual--lifelong-earning">:top:</a>
+  <a href="#awesome-causal-incremental--continual--lifelong-learning">:top:</a>
 </div>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=libo-huang.Awesome-Causal-Incremental-Learning&left_color=green&right_color=red&format=true" alt="xxx">
