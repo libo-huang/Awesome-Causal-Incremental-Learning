@@ -22,7 +22,7 @@
 
 ## :closed_book: Paper
 ### 2024
-
+- (**2024**) Learning Causal Features for Incremental Object Detection [[paper](https://arxiv.org/abs/2403.00591)]
 
 
 
@@ -30,10 +30,10 @@
 - (**CVPR 2022**) Distilling Causal Effect of Data in Class-Incremental Learning [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Hu_Distilling_Causal_Effect_of_Data_in_Class-Incremental_Learning_CVPR_2021_paper.html?ref=https://githubhelp.com)] [[code](https://github.com/JoyHuYY1412/DDE_CIL)]
 
 ### 2022
-
+- (**TPAMI 2022**) Multiple Adverse Weather Conditions Adaptation for Object Detection via Causal Intervention [[paper](https://ieeexplore.ieee.org/abstract/document/9756301)]
 
 ### 2021
-
+- (**ICTAI 2021**) Causal Intervention for Object Detection [[paper](https://ieeexplore.ieee.org/abstract/document/9643182)]
 
 ---
 
