@@ -28,9 +28,9 @@
 
 ### 2023
 - (**CVPR 2022**) Distilling Causal Effect of Data in Class-Incremental Learning [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Hu_Distilling_Causal_Effect_of_Data_in_Class-Incremental_Learning_CVPR_2021_paper.html?ref=https://githubhelp.com)] [[code](https://github.com/JoyHuYY1412/DDE_CIL)]
-
 - (**AAAI 2023**) Disentangle and Remerge: Interventional Knowledge Distillation for Few-Shot Object Detection from a Conditional Causal Perspective [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25216)] [[code](https://github.com/ZYN-1101/DandR.git)]
--
+
+
 ### 2022
 - (**TPAMI 2022**) Multiple Adverse Weather Conditions Adaptation for Object Detection via Causal Intervention [[paper](https://ieeexplore.ieee.org/abstract/document/9756301)]
 
