@@ -24,12 +24,19 @@
 ### 2024
 - (**COLING 2024**) Distilling Causal Effect of Data in Continual Few-shot Relation Learning [[paper](https://aclanthology.org/2024.lrec-main.451/)] [[code](https://github.com/ywh140/CECF)] 
 - (**Expert Systems with Applications 2024**) Class-incremental learning with causal relational replay [[paper](https://www.sciencedirect.com/science/article/pii/S095741742400767X)] [[code](https://github.com/nktoan/CRR-CausalRelationalReplay)]
-- (**2024 arXiv**) Learning Causal Features for Incremental Object Detection [[paper](https://arxiv.org/abs/2403.00591)]
+- (**arXiv 2024**) Learning Causal Features for Incremental Object Detection [[paper](https://arxiv.org/abs/2403.00591)]
+- (**arXiv 2024**) Balancing the Causal Effects in Class-Incremental Learning [[paper](https://arxiv.org/abs/2402.10063)]
+- (**arXiv 2024**) Classifiers are Forgetful! Balancing the Mutual Causal Effects in Class-Incremental Learning [[paper](https://openreview.net/forum?id=EOTgj37XNM)]
 
 ### 2023
+- (**ACL 2023**) Preserving Commonsense Knowledge from Pre-trained Language Models via Causal Inference [[paper](https://virtual2023.aclweb.org/paper_P868.html)] [[code](https://github.com/qianlima-lab/CET)]
 - (**CVPR 2023**) Cafeboost: Causal feature boost to eliminate task-induced bias for class incremental learning [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Qiu_CafeBoost_Causal_Feature_Boost_To_Eliminate_Task-Induced_Bias_for_Class_CVPR_2023_paper.html)]
+- (**AAAI Bridge Program on Continual Causality 2023**) Continual Causality: A Retrospective of the Inaugural AAAI-23 Bridge Program [[paper](https://proceedings.mlr.press/v208/mundt23a.html)]
+
+
 
 ### 2022
+- (**EMNLP 2022**) Distilling causal effect from miscellaneous other-class for continual named entity recognition [[paper](https://aclanthology.org/2022.emnlp-main.236/)] [[code](https://github.com/zzz47zzz/CFNER)]
 
 ### 2021
 - (**CVPR 2021**) Distilling Causal Effect of Data in Class-Incremental Learning [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Hu_Distilling_Causal_Effect_of_Data_in_Class-Incremental_Learning_CVPR_2021_paper.html?ref=https://githubhelp.com)] [[code](https://github.com/JoyHuYY1412/DDE_CIL)]
